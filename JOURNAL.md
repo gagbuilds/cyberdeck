@@ -6,14 +6,7 @@
   ==================================================================
 -->
 
-## 11/1/2025 9:04 PM - rough schematics  
-
-Decided to finally start working on the project after procrastinating for days, I noticed that there is only one month of blueprint left, hence i had to finish my deck quickly, so i started of by sketching my whole idea :)
-
-![1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--f934f1c0a9d797f83fa29d90c2bac27fc606abee/1.jpg)![4](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--476a1b4b17b858dfd9f1454ba1936657dcccb2ba/4.jpg)![3](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMywicHVyIjoiYmxvYl9pZCJ9fQ==--ddbaba4d1c04c553954cf82c75a0f8ec7076cbd0/3.jpg)![2](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d2b21bfd4ba0f16e265dda27458ad47eeced5f23/2.jpg)
-  
-
-## 11/1/2025 9:05 PM - rough schematics  
+## 11/1/2025 - rough schematics  
 
 Decided to finally start working on the project after procrastinating for days, I noticed that there is only one month of blueprint left, hence i had to finish my deck quickly, so i started of by sketching my whole idea :)
 
