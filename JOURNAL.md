@@ -44,3 +44,10 @@ Inspired from this post https://community.element14.com/products/raspberry-pi/f/
 ![drawings](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--776ad96e6793baf11db20721ceeefc85705da0fe/drawings.jpg)
   
 
+## 11/2/2025 9:26 AM - Familiarization with Onshape  
+
+I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display. The specs I've found online to help me are: 232.918mm x 165.1mm x 7.874mm. I'll need to mount it using a VESA mount blueprint from the back. Since I've never worked in onshape, I've been going through the tutorial to learn the basics.
+
+![onshape](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c21d148dfd45a9af17344bfe78205d292eb4f7c7/onshape.png)
+  
+
