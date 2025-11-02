@@ -13,7 +13,7 @@ Decided to finally start working on the project after procrastinating for days, 
 ![1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--f934f1c0a9d797f83fa29d90c2bac27fc606abee/1.jpg)![4](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--476a1b4b17b858dfd9f1454ba1936657dcccb2ba/4.jpg)![3](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMywicHVyIjoiYmxvYl9pZCJ9fQ==--ddbaba4d1c04c553954cf82c75a0f8ec7076cbd0/3.jpg)![2](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d2b21bfd4ba0f16e265dda27458ad47eeced5f23/2.jpg)
   
 
-## 11/2/2025 - Display troubles  
+## 11/2/2025 9:19 AM - Display troubles  
 
 Effective displays land in two areas:
 
@@ -26,4 +26,21 @@ https://www.ebay.com/itm/376644181301
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--22f488d793a408afad2c27980b1d2b01206cf3cc/image.png)
 
 I've been brainstorming the attachment mechanism between the main body and the controllers. Here's the plan. I'll have a ball bearing rectangle piece rotate to lock into the controller, which will have magnets. This piece will also have 3 wires routed on it. GND, 3.3v line, and a data line. These will be connected using spring loaded contacts to the wires. Since I'll have extra magnets, there's a good chance the end of the rotatable travel mode will have magnets to lock it into, as vice versa in the opposite mode. This day has been mostly just double checking all of the materials, and doing more indepth price checks  
+
+## 11/2/2025 9:23 AM -  Ideas! Stenography, Shock Cages, and a beginning to the mod  
+
+Coming back from a hardware hackathon, I have a couple of extra ideas.
+
+Stenography typing at it's most basic level is typing chords. The left hand deals with beginning consonants, the thumbs vowels, and right hand ending consonants. To make it work, I would use the joysticks for the different thumb keys. This could be surprisingly effective, since the nature of capacitive keys allow predictive text. With it, I'm also considering adding a fifth capacitive sensor above the trigger module to allow for more streamlined typing
+
+Inspired from this post https://community.element14.com/products/raspberry-pi/f/forum/8653/case-material-to-protect-raspberry-pi-3b-and-zero-in-hostile-environment
+
+-Shock cages are not very common, but the nature of the cyberdeck revolves around portability. I'm designing it to survive drops that hit the handles, screen side, or back side of the deck. There are two parts to the shock absorption
+
+-Springs: Designed for small drops <0.75m, I can calculate the stiffness required by doing some physics. The potential energy of the shock cage is calculated using weight and height, then I equal that to the elastic potential energy of the spring x4.
+
+-Rubber Grommets: If a fall is greater than 0.75m, then the grommets will somewhat dampen the impact, if much less effectively.
+
+![drawings](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--776ad96e6793baf11db20721ceeefc85705da0fe/drawings.jpg)
+  
 
