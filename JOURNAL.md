@@ -13,3 +13,17 @@ Decided to finally start working on the project after procrastinating for days, 
 ![1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--f934f1c0a9d797f83fa29d90c2bac27fc606abee/1.jpg)![4](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--476a1b4b17b858dfd9f1454ba1936657dcccb2ba/4.jpg)![3](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMywicHVyIjoiYmxvYl9pZCJ9fQ==--ddbaba4d1c04c553954cf82c75a0f8ec7076cbd0/3.jpg)![2](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d2b21bfd4ba0f16e265dda27458ad47eeced5f23/2.jpg)
   
 
+## 11/2/2025 - Display troubles  
+
+Effective displays land in two areas:
+
+Raspberry Pi specific:
+Low resolution (1040x600 or 1280x720) touch, sometimes still expensive
+(sometimes) Non-touch laptop displays
+Higher resolution no touch, more power draw
+In this case, the choice I went with a 10.5 inch touchscreen display at the cost of ~$112 on ebay. It's 1920x1280, which is perfect for programming, given the extra vertical height.
+https://www.ebay.com/itm/376644181301
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--22f488d793a408afad2c27980b1d2b01206cf3cc/image.png)
+
+I've been brainstorming the attachment mechanism between the main body and the controllers. Here's the plan. I'll have a ball bearing rectangle piece rotate to lock into the controller, which will have magnets. This piece will also have 3 wires routed on it. GND, 3.3v line, and a data line. These will be connected using spring loaded contacts to the wires. Since I'll have extra magnets, there's a good chance the end of the rotatable travel mode will have magnets to lock it into, as vice versa in the opposite mode. This day has been mostly just double checking all of the materials, and doing more indepth price checks  
+
