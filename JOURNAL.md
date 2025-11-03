@@ -51,3 +51,10 @@ I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display
 ![onshape](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c21d148dfd45a9af17344bfe78205d292eb4f7c7/onshape.png)
   
 
+## 11/3/2025 - Deck Main Body: Heatset inserts & sizing  
+
+I've created the walls with another sketch, and have done a bit of tweaking to fit the M2 sized holes for the heatset inserts. The roadtrip has been causing quite a bit of internet trouble, meaning the rate at which I can work is heavily affected. I've also started on the footprint for the picatinny rails.
+
+![main_body](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d8ffcab569438fc66b7f34a435658b39ddcf350e/main_body.png)
+  
+
