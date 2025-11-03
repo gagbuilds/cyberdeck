@@ -51,10 +51,17 @@ I've been modeling the case to work with the eyoyo 10.5 inch touchscreen display
 ![onshape](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c21d148dfd45a9af17344bfe78205d292eb4f7c7/onshape.png)
   
 
-## 11/3/2025 - Deck Main Body: Heatset inserts & sizing  
+## 11/3/2025 1:08 PM - Deck Main Body: Heatset inserts & sizing  
 
 I've created the walls with another sketch, and have done a bit of tweaking to fit the M2 sized holes for the heatset inserts. The roadtrip has been causing quite a bit of internet trouble, meaning the rate at which I can work is heavily affected. I've also started on the footprint for the picatinny rails.
 
 ![main_body](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d8ffcab569438fc66b7f34a435658b39ddcf350e/main_body.png)
+  
+
+## 11/3/2025 1:11 PM - Picatinny Rails, bottom plate & port blocks  
+
+I've finished creating the picatinny rails. This uses specific dimensioning from a sketch and I've created it with appropriate constraints if ever needed to be further modified. The rails are on a feature pattern which made it possible to easily modify the length for both sides, with a separated part allowing me to mirror it. Each of the parts I'm adding has been measured (RPi 5, toggle switches) to the correct length. I'll have 5 toggle switches on the right side, and the RPi ports on the left side. A big challenge was figuring out I was going to create a hinge for the rotation mechanism. I spent around two hours researching how to do this. My original idea was to use a bicycle/skateboard bearing, but it wasn't the right fit. Rather, just sliding a metal rod through rings slotted together kept everything secure. When I want to move it, I'll slide the rod forward which unlocks the hinges to move.
+
+![2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--0e4d4b889af816471830e0af77e860f5d8907c75/2.png)![3](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8ceda62c98b325b76bcec84a2fb07ccbf536f9fb/3.png)![1](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NywicHVyIjoiYmxvYl9pZCJ9fQ==--84bf6487dc963af35d0f27a4633a21f42eebddc7/1.png)
   
 
