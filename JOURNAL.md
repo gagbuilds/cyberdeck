@@ -70,3 +70,10 @@ I've finished creating the picatinny rails. This uses specific dimensioning from
 I spent a lot of time on another idea I had. Since the cyberdeck's main theme is portability, I want to give ample opportunity to different methods of traveling. To make traveling with it arm mounted, I decided to layer a mesh on the bottom through the center. This allows the arm to sink into the deck, which has space since the shock cage springs will not be compressed. I've researched some material options and so far the best option is ballistic nylon mesh. I'm going to layer it between two pieces of plastic and secure it with a hex nut. In addition I've been tweaking the hinge design, and I've expanded it significantly to support the weight, while also adding a circular touch to make it look nicer.![mesh arm mount](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f04935523b5a726b01f4e2dd7cf8405d73bd9cf7/mesh%20arm%20mount.png)
   
 
+## 11/3/2025 1:26 PM - Finished Mesh Arm Mount + Progress on pivot arms  
+
+I've been struggling a lot with adjustments of all sorts of things. This has been a learning experience on how to properly create constraints to rely only on base structures in the proper format. I've completed the bottom parts to secure the mesh layer, meaning all I need to focus on from now on are the arm mechanisms, and finally the controller.
+
+![4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ae292ea748429debf460b5f51d6b7990bd1b12c7/4.png)
+  
+
