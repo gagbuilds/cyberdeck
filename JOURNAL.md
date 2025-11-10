@@ -97,3 +97,14 @@ I just got one of my first prints back. This will help me immensely with finishi
 ![first print](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMjcsInB1ciI6ImJsb2JfaWQifX0=--51f8a9e8c06d97fa5648c76f24aba363acddb2b1/first%20print.jpg)
   
 
+## 11/10/2025 6:53 PM - Redesigned Controller & Pivot Controller Mount Progress  
+
+I redesigned the controller again. It wasn't feeling quite right, which I found more impactful when the new design emerged with a much more usable joystick & button area at the top. Of course, the struggles don't end there. I had to learn the technique for creating a multi-directional plane on onshape, rather than a single axis one. After splitting it, the next challenge was hollowing them out. The bottom part of the joystick was easy, and it worked first try. However, when I attempted to hollow out the top part of the controller, I kept getting errors. Funnily enough, the solution is nonsensicle. Selecting a side plane next to where the error is did nothing extra, but still removed the error.
+
+With that out of the way, my next step was creating a connection between the two pieces. My original plan was to have two screws on the bottom. This didn't work out however, since the holes were too deep and the design becoming too complicated. I instead settled on sideways screws by expanding up and using a chamfer to tidy it up.
+
+At this point I hit a bit of a mental roadblock. I didn't know where to begin with creating the mount piece that allows the pivot to slot into the controller. Eventually, I just had to start trying sketches, which helped remove the mental block. This leads me to my most current progress for today! I've shown it below.
+
+![cont redesign](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNDIsInB1ciI6ImJsb2JfaWQifX0=--8fb2aeddd1a6ade2b438d6c7a7d82c37bbf08f72/cont%20redesign.png)
+  
+
