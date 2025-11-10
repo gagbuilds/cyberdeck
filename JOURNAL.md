@@ -62,7 +62,9 @@ I've created the walls with another sketch, and have done a bit of tweaking to f
 
 I've finished creating the picatinny rails. This uses specific dimensioning from a sketch and I've created it with appropriate constraints if ever needed to be further modified. The rails are on a feature pattern which made it possible to easily modify the length for both sides, with a separated part allowing me to mirror it. Each of the parts I'm adding has been measured (RPi 5, toggle switches) to the correct length. I'll have 5 toggle switches on the right side, and the RPi ports on the left side. A big challenge was figuring out I was going to create a hinge for the rotation mechanism. I spent around two hours researching how to do this. My original idea was to use a bicycle/skateboard bearing, but it wasn't the right fit. Rather, just sliding a metal rod through rings slotted together kept everything secure. When I want to move it, I'll slide the rod forward which unlocks the hinges to move.
 
-![2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--0e4d4b889af816471830e0af77e860f5d8907c75/2.png)![3](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8ceda62c98b325b76bcec84a2fb07ccbf536f9fb/3.png)![1](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NywicHVyIjoiYmxvYl9pZCJ9fQ==--84bf6487dc963af35d0f27a4633a21f42eebddc7/1.png)
+![3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMzIsInB1ciI6ImJsb2JfaWQifX0=--532f5397c1665b3cd21aaa166229a917c854d28a/3.png)
+![4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMzEsInB1ciI6ImJsb2JfaWQifX0=--9235a5739267485154795d1d2ecec41fffe9486a/4.png)![2](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMzAsInB1ciI6ImJsb2JfaWQifX0=--4e172f8471681c5b1e37aa3846fed19059dd47c8/2.png)
+
   
 
 ## 11/3/2025 1:14 PM - Mesh Arm Mount  
