@@ -78,7 +78,8 @@ I spent a lot of time on another idea I had. Since the cyberdeck's main theme is
 
 I've been struggling a lot with adjustments of all sorts of things. This has been a learning experience on how to properly create constraints to rely only on base structures in the proper format. I've completed the bottom parts to secure the mesh layer, meaning all I need to focus on from now on are the arm mechanisms, and finally the controller.
 
-![4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ae292ea748429debf460b5f51d6b7990bd1b12c7/4.png)
+![4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMzgsInB1ciI6ImJsb2JfaWQifX0=--e4675a602024733e5bfccbd30141f878ebed40b7/4.png)
+
   
 
 ## 11/10/2025 6:33 PM - Pivot Connection  
