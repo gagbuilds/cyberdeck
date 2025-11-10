@@ -105,6 +105,6 @@ With that out of the way, my next step was creating a connection between the two
 
 At this point I hit a bit of a mental roadblock. I didn't know where to begin with creating the mount piece that allows the pivot to slot into the controller. Eventually, I just had to start trying sketches, which helped remove the mental block. This leads me to my most current progress for today! I've shown it below.
 
-![cont redesign](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNDIsInB1ciI6ImJsb2JfaWQifX0=--8fb2aeddd1a6ade2b438d6c7a7d82c37bbf08f72/cont%20redesign.png)
+![cont redesign](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNDMsInB1ciI6ImJsb2JfaWQifX0=--c26d863c6909e1f43e4897dd586a5bd175b63138/cont%20redesign.png)
   
 
