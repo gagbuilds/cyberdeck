@@ -77,3 +77,11 @@ I've been struggling a lot with adjustments of all sorts of things. This has bee
 ![4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ae292ea748429debf460b5f51d6b7990bd1b12c7/4.png)
   
 
+## 11/10/2025 - Pivot Connection  
+
+I created the connection piece for the pivot point from the main body base. It was difficult to create the necessary curves as I kept getting errors. Eventually I created two Fillets separate for the top and bottom, and while it isn't flush, it worked. I also created the extra sandwich layer
+
+![img6](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMjUsInB1ciI6ImJsb2JfaWQifX0=--bef975b6ce644b6ad8dbdb19fad788085d195f9f/img6.png)
+![img5](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwMjYsInB1ciI6ImJsb2JfaWQifX0=--797b775e984a9cd36244e7a7b25904e11241572a/img5.png)
+  
+
