@@ -69,9 +69,9 @@ To flash the firmware, open up the Arduino IDE, and copy and paste the code from
 
 # Project Bill of Materials
 
-**Total Cost: $356.36**
+**Total Cost: $390.36**
 
-## Main Body - $243.55
+## Main Body - $277.55
 
 ### Computing - $20.00
 
@@ -102,12 +102,12 @@ To flash the firmware, open up the Arduino IDE, and copy and paste the code from
 | --------- | -------- | ----- | ------------------------------------------------------------------------------------------------------------------------ | --------------- |
 | Mesh      | 1        | $5.00 | [Walmart](https://www.walmart.com/ip/Polyester-Knit-Diamond-Mesh-Fabric-Black-Sheer-Polyester-63-By-The-Yard/2555999935) | Local catalogue |
 
-### Other Components - $186.15
+### Other Components - $220.15
 
 | Component           | Quantity | Price  | Link                                                                                            | Notes                                        |
 | ------------------- | -------- | ------ | ----------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | Toggle Switch       | 5        | -      | -                                                                                               | Already own                                  |
-| Display             | 1        | $112.50 | [eBay](https://www.ebay.com/itm/267231078389)                                                   |                                              |
+| Display             | 1        | $146.50 | [eBay](https://www.ebay.com/itm/267231078389)                                                   |                                              |
 | Heat Set Inserts    | 50       | $7.39  | [Digikey](https://www.digikey.com/en/products/detail/tri-star-industries-inc/M20X157C/13535373) |                                              |
 | M2 Screws           | 1 set    | $12.99 | [Amazon](https://www.amazon.com/DYWISHKEY-Pieces-Stainless-Phillips-Screws/dp/B07W5J4WC9)       |                                              |
 | PETG Plastic Spool  | 1        | $18.00 | -                                                                                               | For 3D printing, local printer reimbursement |
@@ -148,6 +148,6 @@ To flash the firmware, open up the Arduino IDE, and copy and paste the code from
 
 | Section    | Cost        |
 | ---------- | ----------- |
-| Main Body  | $243.55     |
+| Main Body  | $277.55     |
 | Controller | $112.81     |
-| **Total**  | **$356.36** |
+| **Total**  | **$390.36** |
