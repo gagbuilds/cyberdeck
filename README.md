@@ -54,12 +54,18 @@ To flash the firmware, open up the Arduino IDE, and copy and paste the code from
 ## Showcase
 
 *Controller PCB*
+<img width="2289" height="1552" alt="cont pcb" src="https://github.com/user-attachments/assets/48c78397-1bf5-4e5e-850f-4fb6d08e2d75" />
+
 
 *Controller Schematic*
+<img width="2221" height="1567" alt="cont sch" src="https://github.com/user-attachments/assets/b42ce6a8-287a-48b6-a106-a026a893dfdf" />
+
 
 *Cyberdeck Shock Cage* 
+<img width="2307" height="1567" alt="shock cage" src="https://github.com/user-attachments/assets/be9b9a78-a881-46c4-9f4e-a154df3a275d" />
 
 *Cyberdeck Overview*
+<img width="2221" height="1567" alt="overview" src="https://github.com/user-attachments/assets/af5a8d79-319d-48fb-9f0b-1a8526f30c70" />
 
 # Project Bill of Materials
 
