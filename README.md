@@ -107,7 +107,7 @@ To flash the firmware, open up the Arduino IDE, and copy and paste the code from
 | Component           | Quantity | Price  | Link                                                                                            | Notes                                        |
 | ------------------- | -------- | ------ | ----------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | Toggle Switch       | 5        | -      | -                                                                                               | Already own                                  |
-| Display             | 1        | $146.50 | [eBay](https://www.ebay.com/itm/267231078389)                                                   |                                              |
+| Display             | 1        | $146.50 |[ ebay ](https://www.ebay.com/itm/376644181301)                                                |                                              |
 | Heat Set Inserts    | 50       | $7.39  | [Digikey](https://www.digikey.com/en/products/detail/tri-star-industries-inc/M20X157C/13535373) |                                              |
 | M2 Screws           | 1 set    | $12.99 | [Amazon](https://www.amazon.com/DYWISHKEY-Pieces-Stainless-Phillips-Screws/dp/B07W5J4WC9)       |                                              |
 | PETG Plastic Spool  | 1        | $18.00 | -                                                                                               | For 3D printing, local printer reimbursement |
